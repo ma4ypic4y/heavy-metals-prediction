@@ -18,4 +18,4 @@
 
 ### Визуализация прогнозирования ✨
 #### **Точность прогнозирования (accuracy) 81% (triplet loss) для железа (Fe).**
-![](image/fe_predict_interpolation.png)
+![](images/fe_predict_interpolation.png)
